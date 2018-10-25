@@ -1,0 +1,10 @@
+{
+    "name": "aletyagin/currency",
+    "type": "library",
+
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    }
+}
